@@ -1,2 +1,3 @@
 sukurtas naujas failas ir ikeltas i git
 Modifikuotas
+pakeistas
